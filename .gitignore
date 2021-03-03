@@ -1,0 +1,7 @@
+log/
+config/*.json
+temp/
+vendor/
+data/
+config/config.local.neon
+.dev

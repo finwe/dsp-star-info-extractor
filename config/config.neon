@@ -1,0 +1,43 @@
+parameters:
+
+	aws_version: 'latest'
+	aws_region:
+
+	sheet_client_config:
+	sheet_token_config: %root_dir%/config/token.json
+	sheet_id:
+
+services:
+
+	- App\Application
+	- App\Controller\DocumentController
+	-
+		factory: App\Extraction\TextractService
+		arguments:
+			keyId: '%aws_key_id%'
+			keySecret: %aws_key_secret%'
+			region: %aws_region%'
+
+	- App\Extraction\EntityService
+	- App\Extraction\GoogleSheetsService('%sheet_client_config%', '%sheet_token_config%', '%sheet_id%')
+	- App\ResponsePerformer
+
+	-
+		factory: Aws\Textract\TextractClient
+		arguments:
+			args:
+				version: %aws_version%
+				region: %aws_region%
+				credentials:
+					key: %aws_key_id%
+					secret: %aws_key_secret%
+
+	-
+		class: Nette\Http\Request
+		factory: @Nette\Http\RequestFactory::fromGlobals
+
+	- Nette\Http\RequestFactory
+
+
+	fileStorage: Nette\Caching\Storages\FileStorage(%root_dir%/temp/cache)
+	- Nette\Caching\Cache(@fileStorage)

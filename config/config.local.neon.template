@@ -1,0 +1,9 @@
+parameters:
+
+	aws_region:
+	aws_key_id:
+	aws_key_secret:
+
+	sheet_client_config:
+	sheet_token_config: %root_dir%/config/token.json
+	sheet_id:
