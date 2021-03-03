@@ -5,5 +5,4 @@ parameters:
 	aws_key_secret:
 
 	sheet_client_config:
-	sheet_token_config: %root_dir%/config/token.json
 	sheet_id:

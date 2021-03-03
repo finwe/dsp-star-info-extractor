@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Exception\InvalidArgumentException;
 use App\Extraction\EntityService;
 use App\Extraction\GoogleSheetsService;
 use App\Extraction\TextractService;
@@ -26,17 +27,35 @@ final class DocumentController
 			$dataUrl = $this->request->getPost('dataurl');
 
 			if (!$dataUrl) {
-				$file = fopen(__DIR__ . '/../../data/Lambda Virginis I.png', 'rb');
-			} else {
-				$file = fopen($dataUrl, 'rb');
+				throw new InvalidArgumentException('Missing parameter dataurl');
 			}
+
+			$file = fopen($dataUrl, 'rb');
 
 			$response = $this->textractService->getExtractedTextFromFile($file);
 			$entity = $this->entityService->entityFromTextractResult($response);
-			$this->sheetsService->sendEntityToSheet($entity);
+
+			$client = $this->sheetsService->getClient(null);
+
+			if (is_string($client)) {
+				throw new InvalidArgumentException('Use /access endpoint to configure Google API Client');
+			}
+
+			$this->sheetsService->sendEntityToSheet($client, $entity);
 
 		} catch (\Aws\Exception\AwsException $e) {
-			echo $e->getMessage();
+			throw new InvalidArgumentException($e->getMessage());
+		}
+
+		return '';
+	}
+
+	public function access()
+	{
+		$result = $this->sheetsService->getClient($this->request->getQuery('code'));
+
+		if (is_string($result)) {
+			return $result;
 		}
 
 		return '';

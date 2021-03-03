@@ -37,8 +37,8 @@ final class Application
 	public function run(): void
 	{
 		$dispatcher = cachedDispatcher(static function (RouteCollector $r) {
-			$r->get('/document', [DocumentController::class, 'create']);
 			$r->post('/document', [DocumentController::class, 'create']);
+			$r->get('/access', [DocumentController::class, 'access']);
 		}, [
 			'cacheFile' => __DIR__ . '/../temp/cache/route.cache',
 			'cacheDisabled' => file_exists(__DIR__ . '/../.dev'),

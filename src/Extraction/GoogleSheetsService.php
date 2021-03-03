@@ -18,15 +18,10 @@ final class GoogleSheetsService
 		private string $clientConfigPath,
 		private string $tokenConfigPath,
 		private string $spreadSheetId,
-	)
+	) {}
+
+	public function sendEntityToSheet(Google_Client $client, $entity)
 	{
-
-	}
-
-	public function sendEntityToSheet($entity)
-	{
-		$client = $this->getClient();
-
 		$service = new Google_Service_Sheets($client);
 
 		$sheetInfo = $service->spreadsheets->get($this->spreadSheetId);
@@ -96,7 +91,12 @@ final class GoogleSheetsService
 		$service->spreadsheets_values->update($this->spreadSheetId, $range, $body, $params);
 	}
 
-	public function getClient()
+	/**
+	 * @param string|null $code
+	 *
+	 * @return \Google_Client|string
+	 */
+	public function getClient(?string $code)
 	{
 		$client = new Google_Client();
 		$client->setApplicationName('Google Docs API PHP Quickstart');
@@ -106,21 +106,25 @@ final class GoogleSheetsService
 
 		// Load previously authorized credentials from a file.
 		if (file_exists($this->tokenConfigPath)) {
+
 			$accessToken = Json::decode(file_get_contents($this->tokenConfigPath), Json::FORCE_ARRAY);
+
 		} else {
-			// Request authorization from the user.
-			$authUrl = $client->createAuthUrl();
-			printf("Open the following link in your browser:\n%s\n", $authUrl);
-			print 'Enter verification code: ';
-			$authCode = trim(fgets(fopen("php://stdin", 'rb')));
+
+			if (!$code) {
+				// Request authorization from the user.
+				$authUrl = $client->createAuthUrl();
+				return sprintf("Open the following link in your browser:\n%s\n", $authUrl);
+			}
 
 			// Exchange authorization code for an access token.
-			$accessToken = $client->fetchAccessTokenWithAuthCode($authCode);
+			$accessToken = $client->fetchAccessTokenWithAuthCode($code);
 
 			// Store the credentials to disk.
 			file_put_contents($this->tokenConfigPath, Json::encode($accessToken));
-			printf("Credentials saved to %s\n", $this->tokenConfigPath);
+			return sprintf("Credentials saved to %s\n", $this->tokenConfigPath);
 		}
+
 		$client->setAccessToken($accessToken);
 
 		// Refresh the token if it's expired.
