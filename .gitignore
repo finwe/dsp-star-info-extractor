@@ -1,5 +1,6 @@
 log/
 config/*.json
+config.local/
 temp/
 vendor/
 data/

@@ -27,7 +27,7 @@ final class Bootstrap
 	{
 		$this->rootDir = $rootDir;
 
-		$mode = file_exists($rootDir . '/.dev')
+		$mode = file_exists($rootDir . '/config.local/.dev')
 			? Debugger::DEVELOPMENT
 			: Debugger::PRODUCTION;
 		Debugger::enable($mode, $rootDir . '/log');
@@ -56,7 +56,7 @@ final class Bootstrap
 		]);
 
 		$compiler->loadConfig($this->rootDir . '/config/config.neon');
-		$localConfigFile = $this->rootDir . '/config/config.local.neon';
+		$localConfigFile = $this->rootDir . '/config.local/config.local.neon';
 
 		if (file_exists($localConfigFile)) {
 			$compiler->loadConfig($localConfigFile);

@@ -1,0 +1,7 @@
+services:
+    web:
+        image: dsp-textract
+        ports:
+            - "8080:8080"
+        volumes:
+            - ./config.local:/var/www/app/config.local
