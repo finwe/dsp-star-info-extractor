@@ -4,5 +4,6 @@ parameters:
 	aws_key_id:
 	aws_key_secret:
 
-	sheet_client_config:
+	sheet_token_config: '%root_dir%/config.local/token.json'
+    sheet_client_config: '%root_dir%/config.local/client_secret.json' # to be pointed to actual file
 	sheet_id:

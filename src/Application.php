@@ -91,6 +91,8 @@ final class Application
 			$this->performer->performSuccess(201, $e->getMessage());
 		} catch (\App\Exception\InvalidArgumentException $e) {
 			$this->performer->performError(400, $e->getMessage());
+		} catch (\App\Exception\NotAuthorizedException $e) {
+			$this->performer->performError(401, $e->getMessage());
 		} catch (\App\Exception\NotFoundException $e) {
 			$this->performer->performError(404, $e->getMessage());
 		}

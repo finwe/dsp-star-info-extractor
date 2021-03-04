@@ -3,6 +3,7 @@
 namespace App\Controller;
 
 use App\Exception\InvalidArgumentException;
+use App\Exception\NotAuthorizedException;
 use App\Extraction\EntityService;
 use App\Extraction\GoogleSheetsService;
 use App\Extraction\TextractService;
@@ -38,7 +39,7 @@ final class DocumentController
 			$client = $this->sheetsService->getClient(null);
 
 			if (is_string($client)) {
-				throw new InvalidArgumentException('Use /access endpoint to configure Google API Client');
+				throw new NotAuthorizedException('Use /access endpoint to configure Google API Client');
 			}
 
 			$this->sheetsService->sendEntityToSheet($client, $entity);
