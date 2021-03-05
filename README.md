@@ -22,6 +22,8 @@ in a Google Document.
 * Download the application code and build the container with `docker build -t dsp-textract .`
 * Create a persistent local directory to be mounted to the container. 
     * For docker-compose, this directory must be named `config.local/`, this name is recommended
+* Optionally create a persistent log directory which will be mapped to `log` directory in the container
+    * For docker-compose, this directory is named `log`
 * Copy `config/config.local.neon.template` from the source code to `config.local.neon` in the local config directory
 * Point `sheet_client_config` and `sheet_token_config` parameters in `config.local.neon` to files in `config.local/` directory
 * Set up remaining parameters in `config.local.neon` file

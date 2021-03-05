@@ -114,7 +114,8 @@ final class GoogleSheetsService
 			if (!$code) {
 				// Request authorization from the user.
 				$authUrl = $client->createAuthUrl();
-				return sprintf("Open the following link in your browser:\n%s\n", $authUrl);
+				header(sprintf("Location: %s", $authUrl));
+				die;
 			}
 
 			// Exchange authorization code for an access token.
@@ -122,15 +123,21 @@ final class GoogleSheetsService
 
 			// Store the credentials to disk.
 			file_put_contents($this->tokenConfigPath, Json::encode($accessToken));
-			return sprintf("Credentials saved to %s\n", $this->tokenConfigPath);
+
+			return $client;
 		}
 
 		$client->setAccessToken($accessToken);
 
 		// Refresh the token if it's expired.
 		if ($client->isAccessTokenExpired()) {
-			$client->fetchAccessTokenWithRefreshToken($client->getRefreshToken());
-			file_put_contents($this->tokenConfigPath, Json::encode($client->getAccessToken()));
+			try {
+				$client->fetchAccessTokenWithRefreshToken($client->getRefreshToken());
+				file_put_contents($this->tokenConfigPath, Json::encode($client->getAccessToken()));
+			} catch (\LogicException $e) {
+				return sprintf('Unable to refresh Google access token: %s', $e->getMessage());
+			}
+
 		}
 
 		return $client;

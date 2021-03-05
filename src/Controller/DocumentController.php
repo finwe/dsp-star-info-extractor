@@ -56,10 +56,10 @@ final class DocumentController
 		$result = $this->sheetsService->getClient($this->request->getQuery('code'));
 
 		if (is_string($result)) {
-			return $result;
+			throw new NotAuthorizedException($result);
 		}
 
-		return '';
+		return 'Authenticated successfuly, you can use the app now';
 	}
 
 }

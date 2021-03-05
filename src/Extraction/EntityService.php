@@ -48,6 +48,7 @@ final class EntityService
 			'Sulfuric acid',
 			'Kimberlite ore',
 			'Fractal silicon',
+			'Unipolar magnet',
 		];
 
 		$parameters = [
