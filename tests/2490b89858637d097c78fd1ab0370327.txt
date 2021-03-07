@@ -1,0 +1,38 @@
+Suha
+G type star
+Iron ore
+13,856,874
+Copper ore
+1,170,174
+Silicon ore
+27,441,245
+Titanium ore
+38,363,042
+Stone
+14,312,451
+Coal
+13,441,476
+Crude oil
+31.77/s
+Water
+Ocean
+Water
+Ocean
+Fire ice
+0.59 /s
+Hydrogen
+e
+0.28 /s
+Mass
+0.903 M°
+Spectral class
+G
+Radius
+0.89 R
+o
+Luminosity
+0.977 LO
+Temperature
+5,441 K
+Age
+5,748 Myrs

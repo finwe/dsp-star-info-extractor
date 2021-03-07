@@ -1,0 +1,33 @@
+Lambda Virginis V
+Barren desert
+Iron ore
+3,502,272
+Copper ore
+2,546,396
+Silicon ore
+4,040,130
+Titanium ore
+21,920,440
+Stone
+76,899,958
+Coal
+0
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+0%
+Solar energy ratio
+48%
+Orbit radius
+Orbiting the star
+3.29. AU
+Orbital period
+32,253 sec
+Rotation period
+1,225 sec
+Orbit inclination
+-2°40'
+Planet's axial inclination
+-9°46'

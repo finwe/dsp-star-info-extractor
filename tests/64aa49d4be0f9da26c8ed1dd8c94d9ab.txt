@@ -1,0 +1,33 @@
+Zubeneschamali I
+Gobi
+Iron ore
+9,829,344
+Copper ore
+59,686,942
+Silicon ore
+90,187,020
+Titanium ore
+0
+Stone
+79,280,762
+Coal
+18,269,198
+Ocean type
+None
+Construction area
+97.9%
+Wind energy ratio
+80%
+Solar energy ratio
+141%
+Orbit radius
+Orbiting the star
+1.878 AU
+Orbital period
+3,573 sec
+Rotation period
+685 sec
+Orbit indination
+-1° 50'  
+Planet's axial inclination
+-19° 50' 

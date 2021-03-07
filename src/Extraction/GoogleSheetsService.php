@@ -70,6 +70,10 @@ final class GoogleSheetsService
 					$rangeTopLeft = 'U';
 					$rangeTopRight = 'V';
 					break;
+				case 'VI':
+					$rangeTopLeft = 'Y';
+					$rangeTopRight = 'Z';
+					break;
 				case 'I':
 				default:
 					$rangeTopLeft = 'E';

@@ -1,0 +1,35 @@
+DenebOkab I
+Lava
+Iron ore
+234,214,258
+Copper ore
+252,876,912
+Silicon ore
+10,590,880
+Titanium ore
+125,258,534
+Stone
+15,220,648
+Coal
+3,063,176
+Ocean type
+Lava
+Construction area
+86.6%
+Wind energy ratio
+70%
+Solar energy ratio
+135%
+Fractal silicon
+39,297,108
+Orbit radius
+Orbiting the star
+1.334, AU
+Orbital period
+5,082 sec
+Rotation period
+407 sec
+Orbit inclination
+-2°6'
+Planet's axial inclination
+-1° 59'

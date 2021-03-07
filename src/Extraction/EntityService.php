@@ -49,6 +49,7 @@ final class EntityService
 			'Kimberlite ore',
 			'Fractal silicon',
 			'Unipolar magnet',
+			'Organic crystal',
 		];
 
 		$parameters = [

@@ -1,0 +1,17 @@
+Zubeneschamali Il
+Ice giant
+Collectable Fireice
+0.83 /s
+Collectable Hydrogen
+0.40/s
+Orbit radius
+Orbiting the star
+2.709 AU
+Orbital period
+6,190 sec
+Rotation period
+144 sec
+Orbit inclination
+2°7'
+Planet's axial inclination
+-7t 9'

@@ -1,0 +1,37 @@
+DenebOkab III
+Barren desert
+Iron ore
+14,754,558
+Copper ore
+15,109,728
+Silicon ore
+28,314,402
+Titanium ore
+89,763,140
+Stone
+380,835,290
+Coal
+O
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+0%
+Solar energy ratio
+92 %
+Fire ice
+17,975,188
+Optical grating crystal
+4,485,894
+Orbit radius
+Orbiting the star
+3.672 AU
+Orbital period
+23,198 sec
+Rotation period
+1,439 sec
+Orbit inclination
+-4° 44'
+Planet's axial inclination
+3° 2'

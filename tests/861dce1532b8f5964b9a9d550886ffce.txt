@@ -1,0 +1,37 @@
+Anchat
+K type star
+Iron ore
+61,747,474
+Copper ore
+49,763,016
+Silicon ore
+22,656,294
+Titanium ore
+30,044,626
+Stone
+7,085,510
+Coal
+30,748,470
+Crude oil
+72.99/s
+Organic crystal
+3,003,434
+Water
+Ocean
+Fire ice
+0.66 /s
+Hydrogen
+0.30/s
+Mass
+0.743 M°
+Spectral class
+K
+Radius
+0.89 R
+o
+Luminosity
+0.934 LO
+Temperature
+4,909 K
+Age
+6,952 Myrs

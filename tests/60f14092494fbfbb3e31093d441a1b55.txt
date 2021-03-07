@@ -1,0 +1,37 @@
+Anchat III
+Oceanic jungle Satellite
+Iron ore
+9,260,488
+Copper ore
+1,738,374
+Silicon ore
+18,584,584
+Titanium ore
+0
+Stone
+4,184,190
+Coal
+29,895,858
+Ocean type
+Water
+Construction area
+57.9%
+Wind energy ratio
+100%
+Solar energy ratio
+79%
+Crude oil
+72.99 /s
+Organic crystal
+3,003,434
+Orbit radius
+Orbit II
+0.064. AU
+Orbital period
+970 sec
+Rotation period
+519 sec
+Orbit inclination
+12°36'
+Planet's axial inclination
+-3°19'

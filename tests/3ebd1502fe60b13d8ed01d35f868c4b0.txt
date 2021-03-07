@@ -1,0 +1,33 @@
+Saak
+Volcanic ash Tidal locking perpefual day and night
+Iron ore
+31,285,895
+Copper ore
+33,897,045
+Silicon ore
+495,152
+Titanium ore
+23,858,014
+Stone
+5,016,790
+Coal
+348,408
+Ocean type
+Sulfuric acid
+Construction area
+98.8%
+Wind energy ratio
+809 %
+Solar energy ratio
+128 %
+Orbit radius
+Orbiting the star
+0.375 AU
+Orbital period
+1,367 sec
+Rotation period
+1,367 sec
+Orbit inclination
+0°! 50'
+Planet's axial inclination
+0° 3'

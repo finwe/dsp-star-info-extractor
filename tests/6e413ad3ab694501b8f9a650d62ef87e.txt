@@ -1,0 +1,33 @@
+27 Gruis I
+Volcanic ash
+Iron ore
+36,548,032
+Copper ore
+44,053,834
+Silicon ore
+4,231,240
+Titanium ore
+23,978,260
+Stone
+5,414,260
+Coal
+397,954
+Ocean type
+Sulfurica acid
+Construction area
+99.3%
+Wind energy ratio
+80 %
+Solar energy ratio
+139%
+Orbit radius
+Orbiting the star
+0.488 AU
+Orbital period
+1,646 sec
+Rotation period
+284 sec
+Orbit indination
+-7° 12'  
+Planet's axial inclination
+10°42'

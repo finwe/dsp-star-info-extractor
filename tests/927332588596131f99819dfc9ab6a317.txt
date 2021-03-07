@@ -1,0 +1,34 @@
+Zubeneschamali
+B type star
+Iron ore
+153,512,118
+Copper ore
+183,190,124
+Silicon ore
+188,746,030
+Titanium ore
+137,320,474
+Stone
+333,076,602
+Coal
+20,090,496
+Fire ice
+3,630,194
+Sulfuric acid
+Ocean
+Fire ice
+0.83 /s
+Hydrogen
+0.40/s
+Mass
+15.131 M o
+Spectral class
+B
+Radius
+3.17 RO
+Luminosity
+1.873 LO
+Temperafure
+26,371 K
+Age
+12 Myrs

@@ -1,0 +1,34 @@
+Gamma Equulei
+M type star
+Iron ore
+51,421,634
+Copper ore
+40,212,006
+Silicon ore
+13,722,632
+Titanium ore
+31,192,234
+Stone
+5,473,244
+Coal
+24,049,242
+Crude oil
+80.53/s
+Organic crystal
+4,179,586
+Sulfuric acid
+Ocean
+Water
+Ocean
+Mass
+0.387 MO
+Spectral class
+M
+Radius
+0.78 R o
+Luminosity
+0.803 LO
+Temperature
+3,565 K
+Age
+2,249 Myrs

@@ -1,0 +1,32 @@
+Lambda Virginis
+Gtype star
+Iron ore
+71,489,170
+Copper ore
+125,471,016
+Silicon ore
+39,485,150
+Titanium ore
+79,271,438
+Stone
+183,054,564
+Coal
+37,367,298
+Crude oil
+47.13/s
+Organic crystal
+1,717,393
+Water
+Ocean
+Mass
+0.998 MO
+Spectral class
+G
+Radius
+0.88 RO
+Luminosity
+1.000 LO
+Temperafure
+5,744 K
+Age
+5,253 Myrs

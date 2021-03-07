@@ -1,0 +1,33 @@
+27 Gruis II
+Arid desert
+Iron ore
+4,508,030
+Copper ore
+23,442,336
+Silicon ore
+0
+Titanium ore
+27,330,570
+Stone
+35,668,854
+Coal
+328,766
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+150%
+Solar energy ratio
+108 %
+Orbit radius
+Orbiting the star
+1.183 AU
+Orbital period
+6,211 sec
+Rotation period
+852 sec
+Orbit inclination
+-5°30'
+Planet's axial inclination
+15° 51'  

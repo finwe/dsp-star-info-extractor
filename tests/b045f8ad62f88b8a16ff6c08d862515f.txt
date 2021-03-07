@@ -1,0 +1,35 @@
+Suha II
+Mediterranean Satellite
+Iron ore
+153,820
+Copper ore
+139,135
+Silicon ore
+0
+Titanium ore
+0
+Stone
+5,042,374
+Coal
+13,161,142
+Ocean type
+Water
+Construction area
+88.1%
+Wind energy ratio
+100 9 %
+Solar energy ratio
+93 %
+Crude oil
+31.77 /s
+Orbit radius
+Orbit I
+0.065 AU
+Orbital period
+1,004 sec
+Rotation period
+699 sec
+Orbit inclination
+0°32'
+Planet's axial inclination
+2° 21'  

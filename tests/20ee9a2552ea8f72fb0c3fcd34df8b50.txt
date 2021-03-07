@@ -1,0 +1,43 @@
+27 Gruis
+F type star
+Iron ore
+61,947,656
+Copper ore
+73,922,938
+Silicon ore
+38,854,776
+Titanium ore
+51,977,542
+Stone
+46,756,150
+Coal
+68,187,168
+Crude oil
+148.13/s
+Organic crystal
+16,223,352
+Spiniform stalagmite crystal
+279,810
+Sulfuric acid
+Ocean
+Water
+Ocean
+Water
+Ocean
+Hydrogen
+0.91/s
+Deuterium
+s
+0.04/s
+Mass
+1.251 MO
+Spectral class
+F
+Radius
+1.01 RO
+Luminosity
+1.053 L o
+Temperature
+6,500 K
+Age
+3,433 Myrs

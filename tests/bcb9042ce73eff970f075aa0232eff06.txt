@@ -1,0 +1,33 @@
+Lambda Virginis II
+Arid desert
+Iron ore
+4,535,208
+Copper ore
+21,562,568
+Silicon ore
+0
+Titanium ore
+23,731,340
+Stone
+42,969,248
+Coal
+338,026
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+150%
+Solar energy ratio
+116%
+Orbit radius
+Orbiting the star
+0.70 AU
+Orbital period
+3,167 sec
+Rotation period
+403 sec
+Orbit inclination
+0°58'
+Planet's axial inclination
+13° 56'  

@@ -1,0 +1,37 @@
+DenebOkab IV
+Ashen gelisol
+Iron ore
+60,953,198
+Copper ore
+15,082,564
+Silicon ore
+114,732,448
+Titanium ore
+32,116,386
+Stone
+51,962,050
+Coal
+1,529,678
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+40%
+Solar energy ratio
+78%
+Fireice
+4,417,098
+Fractal silicon
+6,283,828
+Orbit radius
+Orbiting the star
+4.831 AU
+Orbital period
+35,006 sec
+Rotation period
+724 sec
+Orbit inclination
+1° 10'  
+Planet's axial inclination
+0° 51'  

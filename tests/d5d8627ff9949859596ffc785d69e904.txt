@@ -1,0 +1,17 @@
+Suha I
+Ice giant Horizontal rotation
+Collectable Fire ice
+0.59 /s
+Collectable Hydrogen
+0.28 /s
+Orbit radius
+Orbiting the star
+0.927 AU
+Orbital period
+5,071 sec
+Rotation period
+104 sec
+Orbit inclination
+-5° 40'  
+Planet's axial inclination
+-71° 13'

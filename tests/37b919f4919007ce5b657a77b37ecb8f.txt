@@ -1,0 +1,35 @@
+DenebOkab V
+Ice field gelisol
+Iron ore
+47,753,074
+Copper ore
+1,521,364
+Silicon ore
+39,470,988
+Titanium ore
+143,770,196
+Stone
+13,356,170
+Coal
+905,286
+Ocean type
+Water
+Construction area
+98.6%
+Wind energy ratio
+70%
+Solar energy ratio
+66%
+Fire ice
+16,522,774
+Orbit radius
+Orbiting the star
+6.354 AU
+Orbital period
+52,805 sec
+Rotation period
+1,714 sec
+Orbit inclination
+0° 54'
+Planet's axial inclination
+10° 41'  

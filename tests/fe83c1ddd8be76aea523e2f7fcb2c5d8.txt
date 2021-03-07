@@ -1,0 +1,41 @@
+NTR J0431+051
+Ice field gelisol Orbital resonance 1:2
+Iron ore
+77,964,772
+Copper ore
+1,951,876
+Silicon ore
+53,963,356
+Titanium ore
+196,689,402
+Stone
+17,652,532
+Coal
+1,228,850
+Ocean type
+Water
+Construction area
+99.2 %
+Wind energy ratio
+70%
+Solar energy ratio
+144%
+Fire ice
+69,031,402
+Fractal silicon
+39,068,700
+Optical grating crystal
+16,907,306
+Unipolar magnet
+4,688,518
+Orbit radius
+Orbiting the star
+3.02 AU
+Orbital period
+23,688 sec
+Rotation period
+11,844: sec
+Orbit inclination
+-6° 0'
+Planet's axial inclination
+0° 19'  

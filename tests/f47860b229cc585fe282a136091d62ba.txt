@@ -1,0 +1,33 @@
+DenebOkab II
+Gobi Horizontal rotation
+Iron ore
+9,602,440
+Copper ore
+93,952,572
+Silicon ore
+149,252,580
+Titanium ore
+0
+Stone
+96,944,140
+Coal
+33,592,706
+Ocean type
+None
+Construction area
+99.5%
+Wind energy ratio
+80%
+Solar energy ratio
+108%
+Orbit radius
+Orbiting the star
+2.727 AU
+Orbital period
+14,849 sec
+Rotation period
+704 sec
+Orbit inclination
+-7° 0'
+Planet's axial inclination
+71° 3'

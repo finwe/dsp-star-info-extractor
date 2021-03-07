@@ -1,0 +1,37 @@
+27 Gruis IV
+Prairie Satellite
+Iron ore
+12,323,314
+Copper ore
+5,822,160
+Silicon ore
+9,243,862
+Titanium ore
+668,712
+Stone
+1,165,478
+Coal
+29,378,828
+Ocean type
+Water
+Construction area
+85.5%
+Wind energy ratio
+110%
+Solar energy ratio
+89%
+Crude oil
+74.40/s
+Organic crystal
+12,294,304
+Orbit radius
+Orbit III
+0.068 AU
+Orbital period
+1,068 sec
+Rotation period
+524 sec
+Orbit inclination
+-11° 23'  
+Planet's axial inclination
+-21° 14'  

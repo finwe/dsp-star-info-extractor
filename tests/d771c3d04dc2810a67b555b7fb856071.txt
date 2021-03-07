@@ -1,0 +1,17 @@
+27 Gruis III
+Gas giant Reverse rotation Plural Safellites
+Collectable Hydrogen
+0.91/s
+Collectable Deuterium
+0.04/s
+Orbit radius
+Orbiting the star
+1.679 AU
+Orbital period
+10,504 sec
+Rotation period
+-124 sec
+Orbit inclination
+5°49'
+Planet's axial inclination
+3° 56' 

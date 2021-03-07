@@ -1,0 +1,39 @@
+27 Gruis V
+Oceanic jungle Satellite
+Iron ore
+8,568,280
+Copper ore
+604,608
+Silicon ore
+25,379,674
+Titanium ore
+0
+Stone
+4,507,558
+Coal
+38,081,620
+Ocean type
+Water
+Construction area
+62.8%
+Wind energy ratio
+100%
+Solar energy ratio
+89%
+Crude oil
+73.73 ls
+Organic crystal
+3,929,048
+Spiniform stalagmite crystal
+279,810
+Orbit radius
+Orbit III
+0.11 AU
+Orbital period
+2,190 sec
+Rotation period
+804 sec
+Orbit inclination
+-9°43'
+Planet's axial inclination
+-7° 0'

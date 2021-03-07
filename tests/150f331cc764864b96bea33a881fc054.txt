@@ -1,0 +1,33 @@
+Zubeneschamali III
+Volcanic ash Safellite
+Iron ore
+90,354,608
+Copper ore
+110,196,360
+Silicon ore
+3,562,860
+Titanium ore
+70,219,458
+Stone
+14,694,856
+Coal
+996,202
+Ocean type
+Sulfuric acid
+Construction area
+98.8%
+Wind energy ratio
+80%
+Solar energy ratio
+132%
+Orbit radius
+Orbit II
+0.08 AU
+Orbital period
+1,362 sec
+Rotation period
+741 sec
+Orbit inclination
+-11° 25'
+Planet's axial inclination
+-16 47'

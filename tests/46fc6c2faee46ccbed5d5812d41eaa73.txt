@@ -1,0 +1,33 @@
+Lambda Virginis I
+Lava
+Iron ore
+55,798,588
+Copper ore
+59,338,656
+Silicon ore
+4,473,784
+Titanium ore
+33,619,658
+Stone
+3,646,966
+Coal
+241,628
+Ocean type
+Lava
+Construction area
+85.8%
+Wind energy ratio
+70%
+Solar energy ratio
+135 %
+Orbit radius
+Orbiting the star
+0.397 AU
+Orbital period
+1,351 sec
+Rotation period
+283 sec
+Orbit inclination
+1° 36'
+Planet's axial inclination
+19°39'

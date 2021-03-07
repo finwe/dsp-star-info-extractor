@@ -2,7 +2,6 @@
 
 namespace App\Extraction;
 
-use Aws\Sdk;
 use Aws\Textract\TextractClient;
 use Nette\Caching\Cache;
 use Nette\SmartObject;
@@ -48,9 +47,9 @@ final class TextractService
 			return $all;
 		}, []);
 
-		file_put_contents(__DIR__ . '/../../temp/' . $cacheKey . '.txt', implode("\n", $texts));
+		file_put_contents(__DIR__ . '/../../log/' . $cacheKey . '.txt', implode("\n", $texts));
 		rewind($file);
-		file_put_contents(__DIR__ . '/../../temp/' . $cacheKey . '.png', $file);
+		file_put_contents(__DIR__ . '/../../log/' . $cacheKey . '.png', $file);
 
 		fclose($file);
 

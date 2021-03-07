@@ -1,0 +1,33 @@
+Gamma Equulei I
+Volcanic ash
+Iron ore
+39,635,392
+Copper ore
+34,573,490
+Silicon ore
+2,616,236
+Titanium ore
+30,354,674
+Stone
+3,510,870
+Coal
+331,936
+Ocean type
+Sulfuricacid
+Construction area
+99.1%
+Wind energy ratio
+80%
+Solar energy ratio
+100%
+Orbit radius
+Orbiting the star
+0.334 AU
+Orbital period
+1,672 sec
+Rotation period
+414 sec
+Orbit inclination
+-4°37'
+Planet's axial inclination
+14° 51'  

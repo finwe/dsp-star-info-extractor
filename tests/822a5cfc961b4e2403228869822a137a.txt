@@ -1,0 +1,35 @@
+Zubeneschamali IV
+Barren desert
+Iron ore
+12,015,386
+Copper ore
+10,067,990
+Silicon ore
+16,703,152
+Titanium ore
+46,547,828
+Stone
+206,426,316
+Coal
+0
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+0%
+Solar energy ratio
+91 %
+Fire ice
+3,630,194
+Orbit radius
+Orbiting the star
+6.72 AU
+Orbital period
+24,181 sec
+Rotation period
+796 sec
+Orbit inclination
+-4° 57'  
+Planet's axial inclination
+0°45'

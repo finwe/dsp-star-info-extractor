@@ -1,0 +1,33 @@
+Anchatl
+Lava
+Iron ore
+52,486,986
+Copper ore
+48,024,642
+Silicon ore
+4,071,710
+Titanium ore
+30,044,626
+Stone
+2,901,320
+Coal
+852,612
+Ocean type
+Lava
+Construction area
+89.8%
+Wind energy ratio
+70%
+Solar energy ratio
+123 %
+Orbit radius
+Orbiting the star
+0.36 AU
+Orbital period
+1,354 sec
+Rotation period
+287 sec
+Orbit inclination
+0°32'
+Planet's axial inclination
+-18°42'

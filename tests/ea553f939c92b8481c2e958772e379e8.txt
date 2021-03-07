@@ -1,0 +1,32 @@
+Suha III
+Ashen gelisol
+Iron ore
+6,880,670
+Copper ore
+760,897
+Silicon ore
+21,876,833
+Titanium ore
+8,037,548
+Stone
+7,132,200
+Coal
+281,398
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+40%
+Solar energy ratio
+62 %
+Orbit radius Orbiting the star
+1.822 AU
+Orbital period
+13,982 sec
+Rotation period
+672 sec
+Orbit inclination
+5° 48'
+Planet's axial inclination
+1°10'

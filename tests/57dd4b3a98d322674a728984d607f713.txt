@@ -1,0 +1,33 @@
+Zubeneschamali V
+Ashen gelisol
+Iron ore
+41,312,780
+Copper ore
+3,238,832
+Silicon ore
+78,292,998
+Titanium ore
+20,553,188
+Stone
+32,674,668
+Coal
+825,096
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+40%
+Solar energy ratio
+77%
+Orbit radius
+Orbiting the star
+8.875 AU
+Orbital period
+36,705 sec
+Rotation period
+1,041 sec
+Orbit inclination
+2°52'
+Planet's axial inclination
+0° 14'

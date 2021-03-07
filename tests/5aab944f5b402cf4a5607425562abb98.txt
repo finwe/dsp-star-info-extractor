@@ -1,0 +1,36 @@
+NTR J0431+05
+Neutron star
+Iron ore
+77,964,772
+Copper ore
+1,951,876
+Silicon ore
+53,963,356
+Titanium ore
+196,689,402
+Stone
+17,652,532
+Coal
+1,228,850
+Fire ice
+69,031,402
+Fractal silicon
+39,068,700
+Optical grating crystal
+16,907,306
+Unipolar magnet
+4,688,518
+Water
+Ocean
+Mass
+1.431 MO
+Spectral class
+X
+Radius
+0.31 RO
+Luminosity
+0.627 LO
+Temperature
+63,361,280 K
+Age
+1,161 Myrs

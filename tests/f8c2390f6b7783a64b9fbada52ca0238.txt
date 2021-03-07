@@ -1,0 +1,37 @@
+Gamma Equulei II
+Prairie Horizontal rotation
+Iron ore
+11,786,242
+Copper ore
+5,638,516
+Silicon ore
+11,106,396
+Titanium ore
+837,560
+Stone
+1,962,374
+Coal
+23,717,306
+Ocean type
+Water
+Construction area
+84.6%
+Wind energy ratio
+110%
+Solar energy ratio
+72%
+Crude oil
+80.53/s
+Organic crystal
+4,179,586
+Orbit radius
+Orbiting the star
+0.591 AU
+Orbital period
+3,941 sec
+Rotation period
+452 sec
+Orbit inclination
+0°32'
+Planet's axial inclination
+-83° 16'  

@@ -1,0 +1,16 @@
+Anchat II
+Ice giant
+Collectable Fire ice
+0.66 /s
+Collectable Hydrogen
+0.30 /s
+Orbit radius Orbiting the star
+0.898 AU
+Orbital period
+5,334 sec
+Rotation period
+93 sec
+Orbit inclination
+-5° 42'  
+Planet's axial inclination
+0° 12'  

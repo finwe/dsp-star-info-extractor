@@ -1,0 +1,37 @@
+Lambda Virginis IV
+Red stone
+Iron ore
+6,403,156
+Copper ore
+9,909,364
+Silicon ore
+0
+Titanium ore
+0
+Stone
+31,052,020
+Coal
+29,102,548
+Ocean type
+Water
+Construction area
+59.0%
+Wind energy ratio
+100%
+Solar energy ratio
+79%
+Crude oil
+47.13/s
+Organic crystal
+1,717,341
+Orbit radius
+Orbiting the star
+1.426AU
+Orbital period
+9,207 sec
+Rotation period
+901 sec
+Orbit inclination
+-3°2'
+Planet's axial inclination
+0° 11'  

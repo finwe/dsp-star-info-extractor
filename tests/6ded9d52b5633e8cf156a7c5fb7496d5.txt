@@ -1,0 +1,34 @@
+DenebOkab
+A type star
+Iron ore
+367,277,528
+Copper ore
+378,543,140
+Silicon ore
+342,361,298
+Titanium ore
+390,908,256
+Stone
+558,318,298
+Coal
+39,090,846
+Firei ice
+38,915,060
+Fractal silicon
+45,580,936
+Optical grating crystal
+4,485,894
+Water
+Ocean
+Mass
+2.683 MO
+Spectral class
+A
+Radius
+1.48 RO
+Luminosity
+1.254 L O
+Temperature
+9,948K
+Age
+564 Myrs

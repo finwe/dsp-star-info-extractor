@@ -1,0 +1,32 @@
+Suha IV
+Ice field gelisol
+Iron ore
+6,821,763
+Copper ore
+270,520
+Silicon ore
+5,562,385
+Titanium ore
+30,324,396
+Stone
+2,138,286
+Coal
+0
+Ocean type
+Water
+Construction area
+98.9%
+Wind energy ratio
+70%
+Solar energy ratio
+52%
+Orbit radius Orbiting the star
+2.432 AU
+Orbital period
+21,562 sec
+Rotation period
+802 sec
+Orbit inclination
+1°18'
+Planet's axial inclination
+15° 1'  
