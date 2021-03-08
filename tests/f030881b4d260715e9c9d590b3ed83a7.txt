@@ -1,0 +1,36 @@
+Alcor
+K type star
+Iron ore
+Signal defected
+Copper ore
+Signal detected
+Silicon ore
+Signal detected
+Titanium ore
+Signal detected
+Stone
+Signal defected
+Coal
+Signal detected
+Fire ice
+Signal detected
+Kimberlite ore
+Signal detected
+Fractal silicon
+Signal detected
+Optical grating crystal
+Signal defected
+Water
+Ocean
+Mass
+0.789 M o
+Spectral class
+K
+Radius
+0.83 RO
+Luminosity
+0.947 LO
+Temperature
+5,065 K
+Age
+5,259 Myrs

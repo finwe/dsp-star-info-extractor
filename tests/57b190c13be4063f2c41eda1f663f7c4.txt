@@ -1,0 +1,33 @@
+Kappa Bootis I
+Lava
+Iron ore
+77,395,176
+Copper ore
+74,539,738
+Silicon ore
+4,980,294
+Titanium ore
+46,508,764
+Stone
+7,709,104
+Coal
+1,409,804
+Ocean type
+Lava
+Construction area
+88.7%
+Wind energy ratio
+70%
+Solar energy ratio
+139%
+Orbit radius
+Orbiting the star
+1.747 AU
+Orbital period
+4,044 sec
+Rotation period
+551 sec
+Orbit inclination
+4°49'
+Planet's axial inclination
+1°9'

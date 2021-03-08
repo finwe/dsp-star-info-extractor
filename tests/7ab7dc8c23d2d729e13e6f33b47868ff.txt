@@ -1,0 +1,33 @@
+Kappa Bootis II
+Gobi
+Iron ore
+4,814,030
+Copper ore
+36,831,312
+Silicon ore
+47,443,064
+Titanium ore
+0
+Stone
+42,160,408
+Coal
+10,737,540
+Ocean type
+None
+Construction area
+98.9%
+Wind energy ratio
+80%
+Solar energy ratio
+130 %
+Orbit radius
+Orbiting the star
+2.461 AU
+Orbital period
+6,763 sec
+Rotation period
+624 sec
+Orbit inclination
+-6° 2'
+Planet's axial inclination
+35° 26'

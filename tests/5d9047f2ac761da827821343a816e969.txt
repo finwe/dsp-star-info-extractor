@@ -1,0 +1,36 @@
+Kappa Bootis
+Btype star
+Iron ore
+140,859,616
+Copper ore
+163,828,662
+Silicon ore
+66,975,362
+Titanium ore
+110,688,460
+Stone
+179,369,700
+Coal
+12,706,640
+Sulfuric acid
+Ocean
+Hydrogen
+1.00/s
+Deuterium
+0.04/s
+Fire ice
+0.72 Is
+Hydrogen
+0.33 /s
+Mass
+9.507 M
+Spectral class
+B
+Radius
+2.49 R o
+Luminosity
+1.682 LO
+Temperature
+20,386 K
+Age
+44 Myrs

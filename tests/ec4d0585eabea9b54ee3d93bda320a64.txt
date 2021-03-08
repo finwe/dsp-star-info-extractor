@@ -1,0 +1,36 @@
+Eta Aquarii
+White dwarf
+Iron ore
+19,763,598
+Copper ore
+809,132
+Silicon ore
+16,236,874
+Titanium ore
+74,038,366
+Stone
+5,612,594
+Coal
+394,368
+Fire ice
+28,075,948
+Kimberlite ore
+23,689,616
+Fractal silicon
+23,597,756
+Optical grating crystal
+18,270,865
+Water
+Ocean
+Mass
+0.550MC
+Spectral class
+X
+Radius
+0.29 RO
+Luminosity
+0.346 L LO
+Temperature
+122,007K
+Age
+8,792 Myrs

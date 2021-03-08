@@ -1,0 +1,17 @@
+Kappa Bootis V
+Ice giant
+Collectable Fire ice
+0.72/s
+Collectable Hydrogen
+0.33 /s
+Orbit radius
+Orbiting the star
+8.146. AU
+Orbital period
+40,719 sec
+Rotation period
+162 sec
+Orbit inclination
+-6° 14'  
+Planet's axial inclination
+12° 17'

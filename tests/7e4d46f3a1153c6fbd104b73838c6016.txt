@@ -1,0 +1,41 @@
+Eta Aquarii
+Ice field gelisol Orbital resonance 1:4
+Iron ore
+19,763,598
+Copper ore
+809,132
+Silicon ore
+16,236,874
+Titanium ore
+74,038,366
+Stone
+5,612,594
+Coal
+394,368
+Ocean type
+Water
+Construction area
+98.7%
+Wind energy ratio
+70%
+Solar energy ratio
+43%
+Fire ice
+28,075,948
+Kimberlite ore
+23,689,616
+Fractal silicon
+23,597,756
+Optical grating crystal
+18,277,690
+Orbit radius
+Orbiting the star
+1.264 AU
+Orbital period
+10,354 sec
+Rotation period
+2,588 sec
+Orbit inclination
+-5°8'
+Planet's axial inclination
+2° 9'

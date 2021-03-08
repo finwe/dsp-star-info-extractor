@@ -1,0 +1,17 @@
+Kappa Bootis III
+Gas giant
+Collectable Hydrogen
+1.00 /s
+Collectable Deuterium
+0.04/s
+Orbit radius
+Orbiting the star
+3.475 AU
+Orbital period
+11,344 sec
+Rotation period
+198 sec
+Orbit inclination
+6°4'
+Planet's axial inclination
+22°13'

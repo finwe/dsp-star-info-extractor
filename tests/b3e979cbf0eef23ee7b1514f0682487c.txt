@@ -1,0 +1,33 @@
+Kappa Bootis IV
+Volcanic ash Satellite
+Iron ore
+52,401,518
+Copper ore
+47,222,592
+Silicon ore
+5,433,516
+Titanium ore
+31,278,826
+Stone
+8,191,040
+Coal
+559,296
+Ocean type
+Sulfuric acid
+Construction area
+99.0%
+Wind energy ratio
+80%
+Solar energy ratio
+117%
+Orbit radius
+Orbit III
+0.079 AU
+Orbital period
+1,342 sec
+Rotation period
+684 sec
+Orbit indination
+16°31'
+Planet's axial inclination
+-11° 7

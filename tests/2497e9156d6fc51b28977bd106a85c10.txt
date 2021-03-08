@@ -1,0 +1,33 @@
+Kappa Bootis VI
+Barren desert Satellite
+Iron ore
+6,248,892
+Copper ore
+5,235,020
+Silicon ore
+9,118,488
+Titanium ore
+32,900,870
+Stone
+121,309,148
+Coal
+0
+Ocean type
+None
+Construction area
+100.0%
+Wind energy ratio
+0%
+Solar energy ratio
+74%
+Orbit radius
+Orbit IV
+0.08 AU
+Orbital period
+1,353 sec
+Rotation period
+824 sec
+Orbit inclination
+-2°46'
+Planet's axial inclination
+0° 24'  

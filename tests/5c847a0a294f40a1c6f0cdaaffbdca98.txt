@@ -1,0 +1,37 @@
+Kappa Bootis
+B type star
+Iron ore
+Signal detected
+Copper ore
+Signal defected
+Silicon ore
+Signal defected
+Titanium ore
+Signal detected
+Stone
+Signal detected
+Coal
+Signal defected
+Sulfuric acid
+Ocean
+Hydrogen
+Signal defected
+Deuterium
+3
+Signal detected
+Fire ice
+Signal detected
+Hydrogen
+Signal defected
+Mass
+9.507 MO
+Spectral class
+B
+Radius
+2.49 RO
+Luminosity
+1.682 LO
+Temperafure
+20,386 K
+Age
+44 Myrs
